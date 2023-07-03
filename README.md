@@ -2,4 +2,4 @@
 
 This is a programmer style typing animation using HTML, CSS &amp; JS
 
-checkout: 
+checkout: https://iamtamimalii.github.io/typinganimation.github.io/
